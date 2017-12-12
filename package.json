@@ -1,0 +1,15 @@
+{
+  "name": "musicabot",
+  "version": "0.0.1",
+  "description": "musicbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "opusscript": "0.0.4",
+    "ytdl-core": "^0.18.3"
+  }
+}
